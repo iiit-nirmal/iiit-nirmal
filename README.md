@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Nirmal Bharadwaj 👋
 
-<!--
-**iiit-nirmal/iiit-nirmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java · Spring Boot · REST APIs · Security**
 
-Here are some ideas to get you started:
+I build secure and scalable backend services.  
+Currently exploring JWT, system design, and microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Featured Work
+- **SpringSecurity2**: Clean Spring Boot auth demo  
+- [Other project]
+
+###  Skills
+`Java` `Spring` `PostgreSQL` `Docker` `JWT` `REST API`
+
+###  Contact Me
+- LinkedIn: [https://www.linkedin.com/in/nirmal-b-8510a819b/]
+- Email: mits2015.nirmal@gmail.com
+- Portfolio: NA
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiit-nirmal)
